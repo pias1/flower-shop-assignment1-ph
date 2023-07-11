@@ -7,7 +7,7 @@ body {
 /* bannar releted style */
 .header {
   width: 100%;
-  height: ;
+  height: 100vh ;
   background-size: cover;
   background: rgba(229, 84, 115, 0.1);
   margin-bottom: 240px;
